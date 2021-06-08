@@ -1,0 +1,27 @@
+{
+  "files": {
+    "main.css": "/static/css/main.d41b52a9.chunk.css",
+    "main.js": "/static/js/main.c3c702fa.chunk.js",
+    "main.js.map": "/static/js/main.c3c702fa.chunk.js.map",
+    "runtime-main.js": "/static/js/runtime-main.c96b9813.js",
+    "runtime-main.js.map": "/static/js/runtime-main.c96b9813.js.map",
+    "static/css/2.8c5372c1.chunk.css": "/static/css/2.8c5372c1.chunk.css",
+    "static/js/2.33c09a51.chunk.js": "/static/js/2.33c09a51.chunk.js",
+    "static/js/2.33c09a51.chunk.js.map": "/static/js/2.33c09a51.chunk.js.map",
+    "index.html": "/index.html",
+    "static/css/2.8c5372c1.chunk.css.map": "/static/css/2.8c5372c1.chunk.css.map",
+    "static/css/main.d41b52a9.chunk.css.map": "/static/css/main.d41b52a9.chunk.css.map",
+    "static/js/2.33c09a51.chunk.js.LICENSE.txt": "/static/js/2.33c09a51.chunk.js.LICENSE.txt",
+    "static/media/inclusion_ec.5f7281b7.jpg": "/static/media/inclusion_ec.5f7281b7.jpg",
+    "static/media/ActividadesMain.scss": "/static/media/picto.33b7e6ba.jpg",
+    "static/media/tuto1.60dff82c.JPG": "/static/media/tuto1.60dff82c.JPG",
+    "static/media/tuto2.29517f9f.JPG": "/static/media/tuto2.29517f9f.JPG"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.c96b9813.js",
+    "static/css/2.8c5372c1.chunk.css",
+    "static/js/2.33c09a51.chunk.js",
+    "static/css/main.d41b52a9.chunk.css",
+    "static/js/main.c3c702fa.chunk.js"
+  ]
+}
